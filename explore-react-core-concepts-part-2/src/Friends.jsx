@@ -1,0 +1,18 @@
+import { useEffect, useState } from "react"
+import Friend from "./Friend";
+
+export default function Friends()
+{
+    const [friends, setFriends] = useState([]);
+    useEffect(()=>{
+        fetch("https://jsonplaceholder.typicode.com/users")
+        .then(res=>res.json())
+        .then(data=>setFriends(data));
+    },[])
+    return(
+        <div>
+            <h2>Friends List: ( {friends.length} )</h2>
+            {friends.length>0?friends.map(friend=><Friend key={friend.id} friend={friend}></Friend>):<p>Loading...</p>}
+        </div>
+    )
+}

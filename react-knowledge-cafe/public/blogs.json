@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "title": "The Future of AI: What's Coming in 2030",
+    "cover_img": "https://lionfield.com/wp-content/uploads/2023/07/Understanding-The-Dark-Web.jpg",
+    "author": "ai_master",
+    "author_name": "Alice Johnson",
+    "author_img": "https://ui-avatars.com/api/?name=Alice+Johnson",
+    "posted_time": "2025-07-08T10:00:00Z",
+    "reading_time": 6,
+    "hashtags": ["#AI", "#FutureTech", "#MachineLearning"]
+  },
+  {
+    "id": 2,
+    "title": "Top 5 Remote Work Tips That Actually Work",
+    "cover_img": "https://thumbs.dreamstime.com/b/anonymous-hacker-laptop-concept-dark-web-hacking-cybersecurity-ai-generated-image-face-typing-computer-278545313.jpg",
+    "author": "remote_ninja",
+    "author_name": "David Lee",
+    "author_img": "https://ui-avatars.com/api/?name=David+Lee",
+    "posted_time": "2025-07-06T14:30:00Z",
+    "reading_time": 4,
+    "hashtags": ["#RemoteWork", "#Productivity", "#WorkFromHome"]
+  },
+  {
+    "id": 3,
+    "title": "How to Design Minimal UI for Web Apps",
+    "cover_img": "https://images.unsplash.com/photo-1593642532973-d31b6557fa68?auto=format&fit=crop&w=800&q=80",
+    "author": "ux_guru",
+    "author_name": "Sophia Kim",
+    "author_img": "https://ui-avatars.com/api/?name=Sophia+Kim",
+    "posted_time": "2025-07-03T09:15:00Z",
+    "reading_time": 5,
+    "hashtags": ["#UI", "#UXDesign", "#WebDev"]
+  },
+  {
+    "id": 4,
+    "title": "Mindfulness & Focus: The Science Behind It",
+    "cover_img": "https://c8.alamy.com/comp/2F441RW/deep-matrix-dark-tunnel-binary-code-0-and-1-data-secure-and-data-transfer-in-deep-web-or-dark-web-concept-binary-code-system-hacker-2F441RW.jpg",
+    "author": "calm_mind",
+    "author_name": "Michael Brown",
+    "author_img": "https://ui-avatars.com/api/?name=Michael+Brown",
+    "posted_time": "2025-07-02T11:45:00Z",
+    "reading_time": 3,
+    "hashtags": ["#Mindfulness", "#Focus", "#MentalHealth"]
+  },
+  {
+    "id": 5,
+    "title": "Exploring the Dark Web Safely",
+    "cover_img": "https://img.freepik.com/premium-photo/abstract-dark-web-text-side-view-hacker-desktop-using-computers-blurry-background-hacking-malware-attack-concept-double-exposure_670147-7784.jpg",
+    "author": "darknet_watch",
+    "author_name": "Liam Singh",
+    "author_img": "https://ui-avatars.com/api/?name=Liam+Singh",
+    "posted_time": "2025-07-01T16:20:00Z",
+    "reading_time": 7,
+    "hashtags": ["#CyberSecurity", "#DarkWeb", "#OnlineSafety"]
+  }
+]
